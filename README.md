@@ -105,7 +105,7 @@ npm run dev
 ```
 
 在浏览器中访问 [http://localhost:3000](http://localhost:3000) 即可使用。
-**如果你不想自己部署，想快速使用，可直接访问 https://mashangfa.site/knowledge**
+**如果你不想自己部署，想快速使用，可直接访问 https://mashangfa.site**
 
 
 ## 许可协议
